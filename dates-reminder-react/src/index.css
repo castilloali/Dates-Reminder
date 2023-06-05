@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.rectangle {
+    height: 600px;
+    background: #f7f7f7;
+    box-shadow: 2px 2px 2px 1px rgb(142 142 142 / 53%);
+    color: rgb(71, 71, 71);
+}
+
+
+.btn-cas {
+    padding: 8px;
+    width: 200px;
+}
+
+.img-avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+
+}
